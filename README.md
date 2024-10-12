@@ -64,7 +64,12 @@ Here are some screenshots of the app:
 
 ## Authors
 
-- **Rahul Kumar** - *Initial work* - [imRahul05](https://github.com/imRahul05)
+- **Rahul Kumar**  - [imRahul05](https://github.com/imRahul05)
+- **Nitish Kumar**  - [imRahul05](https://github.com/NitishKDev)
+- **Soumyaranjan Panda**  - [imRahul05](https://github.com/soummyaanon)
+- **GnivethaG**  - [imRahul05](https://github.com/GnivethaG)
+- 
+
 
 ## License
 
