@@ -65,9 +65,9 @@ Here are some screenshots of the app:
 ## Authors
 
 - **Rahul Kumar**  - [imRahul05](https://github.com/imRahul05)
-- **Nitish Kumar**  - [imRahul05](https://github.com/NitishKDev)
-- **Soumyaranjan Panda**  - [imRahul05](https://github.com/soummyaanon)
-- **GnivethaG**  - [imRahul05](https://github.com/GnivethaG)
+- **Nitish Kumar**  - [NitishKDev](https://github.com/NitishKDev)
+- **Soumyaranjan Panda**  - [soummyaanon](https://github.com/soummyaanon)
+- **GnivethaG**  - [GnivethaG](https://github.com/GnivethaG)
 - 
 
 
