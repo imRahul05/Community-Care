@@ -35,10 +35,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Here are some screenshots of the app:
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
+<img src="screenshots/1.png" alt="Screenshot 1" width="300"/>
+<img src="screenshots/2.png" alt="Screenshot 2" width="300"/>
+<img src="screenshots/3.png" alt="Screenshot 3" width="300"/>
+<img src="screenshots/4.png" alt="Screenshot 4" width="300"/>
 
 ## Project Structure
 
