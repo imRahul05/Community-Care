@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997796214484",
+    "project_id": "communitycarev4",
+    "storage_bucket": "communitycarev4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997796214484:android:5a3718921575f262a4ad41",
+        "android_client_info": {
+          "package_name": "com.example.communitycarev4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lkZfruUEpsnHGOvJWolacw1f4Fnhs7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
