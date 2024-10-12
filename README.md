@@ -35,10 +35,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Here are some screenshots of the app:
 
-<img src="screenshots/1.png" alt="Screenshot 1" width="300"/>
-<img src="screenshots/2.png" alt="Screenshot 2" width="300"/>
-<img src="screenshots/3.png" alt="Screenshot 3" width="300"/>
-<img src="screenshots/4.png" alt="Screenshot 4" width="300"/>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="screenshots/1.png" alt="Screenshot 1" width="300"/>
+    <img src="screenshots/2.png" alt="Screenshot 2" width="300"/>
+    <img src="screenshots/3.png" alt="Screenshot 3" width="300"/>
+    <img src="screenshots/4.png" alt="Screenshot 4" width="300"/>
+</div>
 
 ## Project Structure
 
